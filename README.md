@@ -6,7 +6,7 @@ original images and 3594 manipulated images. This gives us a good
 amount of data to train our model. We also test our model with a smaller
 subset of the above mentioned dataset.
 
-Initial Preparation - Error Level AnalysisAs the first step, we perform Error Level Analysis(ELA) on all the images in
+Initial Preparation - Error Level Analysis - As the first step, we perform Error Level Analysis(ELA) on all the images in
 the dataset. This starts with resaving all the images and then taking the
 absolute difference between the individual pixel values of the original image
 and the resaved image. This gives us the ELA image of that particular image.
